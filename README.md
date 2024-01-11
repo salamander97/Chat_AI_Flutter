@@ -23,7 +23,7 @@ This Flutter application provides a comprehensive chat interface with functional
 1. Clone the repository:
 
    ```shell
-   git clone [https://github.com/salamander97/Chat_AI_Flutter.git]
+   git clone https://github.com/salamander97/Chat_AI_Flutter.git
    ```
 
 2. Navigate to the project directory and install dependencies:
@@ -65,7 +65,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 Trung Hieu
 ```
-trunghieu.bomm@gmail.com]
+trunghieu.bomm@gmail.com
 ```
 Project Link: [https://github.com/salamander97/Chat_AI_Flutter.git](https://github.com/salamander97/Chat_AI_Flutter.git)
 
